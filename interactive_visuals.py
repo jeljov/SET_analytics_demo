@@ -157,7 +157,7 @@ def plot_pos_vs_neg_props_for_semester_plotly(pos_comment_cnts_df: pd.DataFrame,
     # Calculate max absolute value to ensure perfectly symmetrical X-axis bounds
     max_val = max(df_sub.pos_prop.max(), df_sub.neg_prop.max())
     # Add a 5-10% padding buffer so bars don't touch the very edges of the plot
-    axis_limit = max_val * 1.1
+    axis_limit = round(max_val * 1.1, 2)
 
     # --- Explicitly generate symmetrical tick marks ---
     # Create 7 evenly spaced tick locations between -max_val and +max_val
@@ -279,7 +279,7 @@ def plot_pos_vs_neg_props_for_topical_category_plotly(pos_comment_cnts_df: pd.Da
     # Calculate max absolute value to ensure perfectly symmetrical X-axis bounds
     max_val = max(df_sub.pos_prop.max(), df_sub.neg_prop.max())
     # Add a 5-10% padding buffer so bars don't touch the very edges of the plot
-    axis_limit = max_val * 1.1
+    axis_limit = round(max_val * 1.1, 2)
 
     # --- Explicitly generate symmetrical tick marks ---
     # Create 7 evenly spaced tick locations between -max_val and +max_val
