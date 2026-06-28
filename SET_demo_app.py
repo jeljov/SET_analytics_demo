@@ -2,6 +2,12 @@ import streamlit as st
 import pandas as pd
 from pathlib import Path
 
+import os
+import sys
+
+# Add the current directory to the Python path
+sys.path.append(os.path.dirname(__file__))
+
 import visuals_util as vis_util
 import interactive_visuals as ivis
 
