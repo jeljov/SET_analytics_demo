@@ -1,0 +1,171 @@
+semester,category,comments_cnt,comments_prop,year
+20184,"Assessments, Assignments & Grading",2,0.01818181818181818,2018
+20184,Course Content & Materials,21,0.19090909090909092,2018
+20184,"Course Technology, Organization & Logistics",3,0.02727272727272727,2018
+20184,"Instructor's Communication, Feedback & Support",16,0.14545454545454545,2018
+20184,Instructor's Teaching Approach & Expertise,25,0.22727272727272727,2018
+20184,Learning Outcomes & Course Value,7,0.06363636363636363,2018
+20184,Other,6,0.05454545454545454,2018
+20184,Overall impression: course,7,0.06363636363636363,2018
+20184,Overall impression: instructor,23,0.20909090909090908,2018
+20191,Overall impression: course,3,0.09375,2019
+20191,Other,9,0.28125,2019
+20191,Learning Outcomes & Course Value,3,0.09375,2019
+20191,Course Content & Materials,5,0.15625,2019
+20191,"Instructor's Communication, Feedback & Support",3,0.09375,2019
+20191,Instructor's Teaching Approach & Expertise,9,0.28125,2019
+20193,Other,4,0.05405405405405406,2019
+20193,Overall impression: instructor,18,0.24324324324324326,2019
+20193,Overall impression: course,6,0.08108108108108109,2019
+20193,Learning Outcomes & Course Value,5,0.06756756756756757,2019
+20193,Instructor's Teaching Approach & Expertise,14,0.1891891891891892,2019
+20193,"Instructor's Communication, Feedback & Support",8,0.10810810810810811,2019
+20193,"Course Technology, Organization & Logistics",2,0.02702702702702703,2019
+20193,Course Content & Materials,12,0.16216216216216217,2019
+20193,"Assessments, Assignments & Grading",5,0.06756756756756757,2019
+20194,Overall impression: instructor,9,0.12162162162162163,2019
+20194,Overall impression: course,4,0.05405405405405406,2019
+20194,Learning Outcomes & Course Value,8,0.10810810810810811,2019
+20194,Other,7,0.0945945945945946,2019
+20194,"Instructor's Communication, Feedback & Support",8,0.10810810810810811,2019
+20194,"Course Technology, Organization & Logistics",2,0.02702702702702703,2019
+20194,Course Content & Materials,14,0.1891891891891892,2019
+20194,Instructor's Teaching Approach & Expertise,22,0.2972972972972973,2019
+20202,Course Content & Materials,3,0.25,2020
+20202,Instructor's Teaching Approach & Expertise,2,0.16666666666666666,2020
+20202,Other,4,0.3333333333333333,2020
+20202,Overall impression: course,3,0.25,2020
+20203,Learning Outcomes & Course Value,10,0.06451612903225806,2020
+20203,Overall impression: instructor,20,0.12903225806451613,2020
+20203,Other,7,0.04516129032258064,2020
+20203,Instructor's Teaching Approach & Expertise,31,0.2,2020
+20203,Overall impression: course,9,0.05806451612903226,2020
+20203,"Course Technology, Organization & Logistics",10,0.06451612903225806,2020
+20203,Course Content & Materials,26,0.16774193548387098,2020
+20203,"Assessments, Assignments & Grading",8,0.05161290322580645,2020
+20203,"Instructor's Communication, Feedback & Support",34,0.21935483870967742,2020
+20204,Overall impression: instructor,10,0.16393442622950818,2020
+20204,Other,9,0.14754098360655737,2020
+20204,Learning Outcomes & Course Value,2,0.03278688524590164,2020
+20204,Overall impression: course,3,0.04918032786885246,2020
+20204,"Instructor's Communication, Feedback & Support",9,0.14754098360655737,2020
+20204,"Course Technology, Organization & Logistics",7,0.11475409836065574,2020
+20204,Course Content & Materials,11,0.18032786885245902,2020
+20204,Instructor's Teaching Approach & Expertise,10,0.16393442622950818,2020
+20212,"Course Technology, Organization & Logistics",5,0.29411764705882354,2021
+20212,"Instructor's Communication, Feedback & Support",4,0.23529411764705882,2021
+20212,Instructor's Teaching Approach & Expertise,4,0.23529411764705882,2021
+20212,Other,1,0.058823529411764705,2021
+20212,Overall impression: course,1,0.058823529411764705,2021
+20212,Overall impression: instructor,2,0.11764705882352941,2021
+20213,Overall impression: instructor,17,0.1827956989247312,2021
+20213,Overall impression: course,6,0.06451612903225806,2021
+20213,Learning Outcomes & Course Value,7,0.07526881720430108,2021
+20213,Other,12,0.12903225806451613,2021
+20213,"Instructor's Communication, Feedback & Support",13,0.13978494623655913,2021
+20213,Course Content & Materials,15,0.16129032258064516,2021
+20213,"Assessments, Assignments & Grading",1,0.010752688172043012,2021
+20213,Instructor's Teaching Approach & Expertise,22,0.23655913978494625,2021
+20214,Course Content & Materials,10,0.15151515151515152,2021
+20214,"Course Technology, Organization & Logistics",2,0.030303030303030304,2021
+20214,"Instructor's Communication, Feedback & Support",14,0.21212121212121213,2021
+20214,Instructor's Teaching Approach & Expertise,12,0.18181818181818182,2021
+20214,Learning Outcomes & Course Value,3,0.045454545454545456,2021
+20214,Other,16,0.24242424242424243,2021
+20214,Overall impression: course,4,0.06060606060606061,2021
+20214,Overall impression: instructor,5,0.07575757575757576,2021
+20222,Overall impression: instructor,1,0.03333333333333333,2022
+20222,Overall impression: course,2,0.06666666666666667,2022
+20222,Other,2,0.06666666666666667,2022
+20222,Learning Outcomes & Course Value,2,0.06666666666666667,2022
+20222,"Assessments, Assignments & Grading",3,0.1,2022
+20222,"Instructor's Communication, Feedback & Support",5,0.16666666666666666,2022
+20222,"Course Technology, Organization & Logistics",2,0.06666666666666667,2022
+20222,Course Content & Materials,6,0.2,2022
+20222,Instructor's Teaching Approach & Expertise,7,0.23333333333333334,2022
+20223,Other,13,0.19696969696969696,2022
+20223,Overall impression: instructor,13,0.19696969696969696,2022
+20223,Overall impression: course,7,0.10606060606060606,2022
+20223,Learning Outcomes & Course Value,2,0.030303030303030304,2022
+20223,"Assessments, Assignments & Grading",1,0.015151515151515152,2022
+20223,"Instructor's Communication, Feedback & Support",6,0.09090909090909091,2022
+20223,Course Content & Materials,9,0.13636363636363635,2022
+20223,Instructor's Teaching Approach & Expertise,11,0.16666666666666666,2022
+20223,"Course Technology, Organization & Logistics",4,0.06060606060606061,2022
+20224,Overall impression: instructor,2,0.0392156862745098,2022
+20224,Other,3,0.058823529411764705,2022
+20224,Learning Outcomes & Course Value,3,0.058823529411764705,2022
+20224,Instructor's Teaching Approach & Expertise,9,0.17647058823529413,2022
+20224,Overall impression: course,6,0.11764705882352941,2022
+20224,"Course Technology, Organization & Logistics",8,0.1568627450980392,2022
+20224,Course Content & Materials,10,0.19607843137254902,2022
+20224,"Assessments, Assignments & Grading",1,0.0196078431372549,2022
+20224,"Instructor's Communication, Feedback & Support",9,0.17647058823529413,2022
+20232,Overall impression: instructor,5,0.20833333333333334,2023
+20232,Course Content & Materials,3,0.125,2023
+20232,"Course Technology, Organization & Logistics",5,0.20833333333333334,2023
+20232,"Instructor's Communication, Feedback & Support",6,0.25,2023
+20232,Instructor's Teaching Approach & Expertise,2,0.08333333333333333,2023
+20232,Learning Outcomes & Course Value,1,0.041666666666666664,2023
+20232,"Assessments, Assignments & Grading",2,0.08333333333333333,2023
+20233,Overall impression: course,15,0.09933774834437085,2023
+20233,Course Content & Materials,22,0.1456953642384106,2023
+20233,Other,10,0.06622516556291391,2023
+20233,Overall impression: instructor,21,0.1390728476821192,2023
+20233,Learning Outcomes & Course Value,9,0.059602649006622516,2023
+20233,"Assessments, Assignments & Grading",8,0.052980132450331126,2023
+20233,"Instructor's Communication, Feedback & Support",21,0.1390728476821192,2023
+20233,"Course Technology, Organization & Logistics",8,0.052980132450331126,2023
+20233,Instructor's Teaching Approach & Expertise,37,0.24503311258278146,2023
+20234,"Assessments, Assignments & Grading",3,0.046875,2023
+20234,Course Content & Materials,9,0.140625,2023
+20234,"Course Technology, Organization & Logistics",7,0.109375,2023
+20234,"Instructor's Communication, Feedback & Support",12,0.1875,2023
+20234,Instructor's Teaching Approach & Expertise,15,0.234375,2023
+20234,Learning Outcomes & Course Value,4,0.0625,2023
+20234,Other,8,0.125,2023
+20234,Overall impression: course,1,0.015625,2023
+20234,Overall impression: instructor,5,0.078125,2023
+20242,Other,1,0.08333333333333333,2024
+20242,Overall impression: course,1,0.08333333333333333,2024
+20242,Overall impression: instructor,1,0.08333333333333333,2024
+20242,Instructor's Teaching Approach & Expertise,3,0.25,2024
+20242,"Instructor's Communication, Feedback & Support",3,0.25,2024
+20242,Course Content & Materials,2,0.16666666666666666,2024
+20242,Learning Outcomes & Course Value,1,0.08333333333333333,2024
+20243,"Assessments, Assignments & Grading",6,0.02390438247011952,2024
+20243,Course Content & Materials,48,0.19123505976095617,2024
+20243,"Course Technology, Organization & Logistics",5,0.0199203187250996,2024
+20243,"Instructor's Communication, Feedback & Support",31,0.12350597609561753,2024
+20243,Instructor's Teaching Approach & Expertise,36,0.14342629482071714,2024
+20243,Learning Outcomes & Course Value,51,0.20318725099601595,2024
+20243,Other,34,0.13545816733067728,2024
+20243,Overall impression: course,19,0.07569721115537849,2024
+20243,Overall impression: instructor,21,0.08366533864541832,2024
+20244,Overall impression: instructor,9,0.06976744186046512,2024
+20244,Other,9,0.06976744186046512,2024
+20244,Learning Outcomes & Course Value,29,0.2248062015503876,2024
+20244,Instructor's Teaching Approach & Expertise,19,0.14728682170542637,2024
+20244,Overall impression: course,5,0.03875968992248062,2024
+20244,"Course Technology, Organization & Logistics",5,0.03875968992248062,2024
+20244,Course Content & Materials,32,0.24806201550387597,2024
+20244,"Assessments, Assignments & Grading",2,0.015503875968992248,2024
+20244,"Instructor's Communication, Feedback & Support",19,0.14728682170542637,2024
+20252,Overall impression: instructor,6,0.11764705882352941,2025
+20252,Overall impression: course,1,0.0196078431372549,2025
+20252,Learning Outcomes & Course Value,10,0.19607843137254902,2025
+20252,Instructor's Teaching Approach & Expertise,6,0.11764705882352941,2025
+20252,Other,3,0.058823529411764705,2025
+20252,"Course Technology, Organization & Logistics",4,0.0784313725490196,2025
+20252,Course Content & Materials,10,0.19607843137254902,2025
+20252,"Assessments, Assignments & Grading",3,0.058823529411764705,2025
+20252,"Instructor's Communication, Feedback & Support",8,0.1568627450980392,2025
+20253,Overall impression: course,15,0.07042253521126761,2025
+20253,"Assessments, Assignments & Grading",8,0.03755868544600939,2025
+20253,Course Content & Materials,58,0.27230046948356806,2025
+20253,"Course Technology, Organization & Logistics",7,0.03286384976525822,2025
+20253,"Instructor's Communication, Feedback & Support",13,0.06103286384976526,2025
+20253,Instructor's Teaching Approach & Expertise,29,0.13615023474178403,2025
+20253,Learning Outcomes & Course Value,58,0.27230046948356806,2025
+20253,Other,3,0.014084507042253521,2025
+20253,Overall impression: instructor,22,0.10328638497652583,2025
