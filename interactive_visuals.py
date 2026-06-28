@@ -159,6 +159,13 @@ def plot_pos_vs_neg_props_for_semester_plotly(pos_comment_cnts_df: pd.DataFrame,
     # Add a 5-10% padding buffer so bars don't touch the very edges of the plot
     axis_limit = max_val * 1.1
 
+    # --- Explicitly generate symmetrical tick marks ---
+    # Create 7 evenly spaced tick locations between -max_val and +max_val
+    raw_ticks = np.linspace(-max_val, max_val, 7)
+
+    # Map those locations to their string representations using absolute values
+    absolute_tick_labels = [f"{abs(x):.2f}" for x in raw_ticks]
+
     # --- Layout & Aesthetic Refinements ---
     fig.update_layout(
         barmode="overlay",  # Overlay works perfectly since one side is purely negative
@@ -171,8 +178,12 @@ def plot_pos_vs_neg_props_for_semester_plotly(pos_comment_cnts_df: pd.DataFrame,
         xaxis=dict(
             title="Proportion of All Positive / Negative Comments in the Given Semester",
             range=[-axis_limit, axis_limit],
-            # Plotly Magic: This format string forces negative numbers to show as absolute values
-            tickformat=".2f;.2f",  # Format: "PositiveFormat;NegativeFormat"
+
+            # FORCE ABSOLUTE LABELS HERE:
+            tickmode="array",
+            tickvals=list(raw_ticks),
+            ticktext=absolute_tick_labels,
+
             zeroline=True,
             zerolinecolor="black",  # Replaces ax.axvline(0)
             zerolinewidth=1,
@@ -270,6 +281,13 @@ def plot_pos_vs_neg_props_for_topical_category_plotly(pos_comment_cnts_df: pd.Da
     # Add a 5-10% padding buffer so bars don't touch the very edges of the plot
     axis_limit = max_val * 1.1
 
+    # --- Explicitly generate symmetrical tick marks ---
+    # Create 7 evenly spaced tick locations between -max_val and +max_val
+    raw_ticks = np.linspace(-max_val, max_val, 7)
+
+    # Map those locations to their string representations using absolute values
+    absolute_tick_labels = [f"{abs(x):.2f}" for x in raw_ticks]
+
     # --- Layout & Aesthetic Refinements ---
     fig.update_layout(
         barmode="overlay",  # Overlay works perfectly since one side is purely negative
@@ -282,8 +300,12 @@ def plot_pos_vs_neg_props_for_topical_category_plotly(pos_comment_cnts_df: pd.Da
         xaxis=dict(
             title="Proportion of All Positive / Negative Comments on the Chosen Course Aspect",
             range=[-axis_limit, axis_limit],
-            # Plotly Magic: This format string forces negative numbers to show as absolute values
-            tickformat=".2f;.2f",  # Format: "PositiveFormat;NegativeFormat"
+
+            # FORCE ABSOLUTE LABELS HERE:
+            tickmode="array",
+            tickvals=list(raw_ticks),
+            ticktext=absolute_tick_labels,
+
             zeroline=True,
             zerolinecolor="black",  # Replaces ax.axvline(0)
             zerolinewidth=1,
